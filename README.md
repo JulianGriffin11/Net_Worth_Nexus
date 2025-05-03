@@ -1,8 +1,11 @@
 # 💼 The Net Worth Nexus 🚀
 
-**A beautifully crafted Excel dashboard for tracking NET WORTH, SAVINGS, INVESTMENTS, and INCOME ALLOCATION** — Julian.
+A beautifully crafted Excel dashboard for tracking **NET WORTH, SAVINGS, INVESTMENTS, and INCOME ALLOCATION.** -Julian Griffin
 
+<img src="Media/Dashboard_2.gif" alt="Net Worth Dashboard Preview" width="800">
+  
 > _"Invest Early. Invest Regularly. Invest Enough."_
+
 
 ---
 
@@ -13,14 +16,15 @@ This Excel dashboard is a **one-stop command centre** for managing personal fina
 1. **Net Worth Tracker**  
   Visualizes your total assets over time with sleek monthly bar charts and summary stat boxes.
 
-2. **Savings Tracker**  
-  Set short- and long-term savings goals, track deposits/withdrawals, and see real-time % progress bars.
+2. **Budget Allocation Tool**  
+  Enter your income, and see how much to allocate to cash, savings, and investments (with a clean donut chart 🍩).
 
 3. **TFSA Investment Portfolio**  
   Log trades, track performance, and compare your stocks vs the S&P 500.
 
-4. **Budget Allocation Tool**  
-  Enter your income, and see how much to allocate to cash, savings, and investments (with a clean donut chart 🍩).
+4. **Savings Tracker**  
+  Set short and long-term savings goals, track deposits/withdrawals, and see real-time % progress bars.
+
 
 ---
 
@@ -39,7 +43,7 @@ This Excel dashboard is a **one-stop command centre** for managing personal fina
 
 - **Microsoft Excel for Mac**
 - Formulas: `LOOKUP`, `IF`, `INDEX`, `MATCH`, `SUMIFS`, conditional formatting
-- Charts: Bar, Pie, Donut, Line
+- Explore the various charts: Bar, Pie, Donut, Line
 
 ---
 
