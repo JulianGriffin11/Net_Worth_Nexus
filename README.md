@@ -1,4 +1,4 @@
-# 💼 The Net Worth Nexus 🚀
+# 🧠 <a href="Net%20Worth%20Nexus.xlsx" download> The Net Worth Nexus 🚀</a>
 
 A beautifully crafted Excel dashboard for tracking **NET WORTH, SAVINGS, INVESTMENTS, and INCOME ALLOCATION.** -Julian Griffin
 
@@ -62,6 +62,7 @@ This Excel dashboard is a **one-stop command centre** for managing personal fina
 - 📈 Project future growth from past rates
 
 ---
+✨ Click the title heading link to download the project file! 🚀
 
 - Check out some of my other work:
   - [📘 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)
