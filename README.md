@@ -63,11 +63,11 @@ This Excel dashboard is a **one-stop command centre** for managing personal fina
 
 ---
 
- - Check out some of my other work:
+- Check out some of my other work:
   - [📘 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)
   - [🌺 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
   - [👑 R Projects](https://github.com/JulianGriffin11/R_Projects)
 
-Talk soon,
+Talk soon,  
 Julian Griffin
 
