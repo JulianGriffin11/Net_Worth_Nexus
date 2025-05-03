@@ -4,8 +4,7 @@ A beautifully crafted Excel dashboard for tracking **NET WORTH, SAVINGS, INVESTM
 
 <img src="Media/Dashboard_2.gif" alt="Net Worth Dashboard Preview" width="800">
   
-> _"Invest Early. Invest Regularly. Invest Enough."_
-
+> _“Pay Yourself First.” – Robert Kiyosaki_
 
 ---
 
@@ -64,4 +63,11 @@ This Excel dashboard is a **one-stop command centre** for managing personal fina
 
 ---
 
-> _“Pay Yourself First.” – Robert Kiyosaki_
+ - Check out some of my other work:
+  - [📘 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)
+  - [🌺 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
+  - [👑 R Projects](https://github.com/JulianGriffin11/R_Projects)
+
+Talk soon,
+Julian Griffin
+
